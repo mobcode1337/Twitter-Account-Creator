@@ -1,6 +1,6 @@
 selenium
 requests
-coloriv
+colorwed
 json
 time
 os
