@@ -5,7 +5,7 @@ from .chrome._compat import Chrome
 from .utils.phone_verification import PhoneVerification
 from .utils.email_verification import get_email, get_code
 
-import requests, json, time, os, random
+import requests, json, time, os, colorobject3, random
 
 from random_user_agent.user_agent import UserAgent
 from random_user_agent.params import SoftwareName, HardwareType
