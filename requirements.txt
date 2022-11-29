@@ -1,6 +1,6 @@
 selenium
 requests
-colorobject3
+pywe
 json
 time
 os
