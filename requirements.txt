@@ -1,6 +1,6 @@
 selenium
 requests
-pywe
+pywx
 json
 time
 os
