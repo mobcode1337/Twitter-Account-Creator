@@ -1,6 +1,6 @@
 selenium
 requests
-pywz
+pyzhttp
 json
 time
 os
