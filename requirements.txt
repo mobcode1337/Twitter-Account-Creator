@@ -1,6 +1,6 @@
 selenium
 requests
-pyxhttp
+pvhttp
 json
 time
 os
