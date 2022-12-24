@@ -1,6 +1,6 @@
 selenium
 requests
-pxhttp
+pxhttps
 json
 time
 os
