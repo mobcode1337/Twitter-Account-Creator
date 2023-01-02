@@ -1,9 +1,9 @@
 from cgitb import text
 from selenium.webdriver.common.by import By as by
 
-from .chrome._compat import Chrome
-from .utils.phone_verification import PhoneVerification
-from .utils.email_verification import get_email, get_code
+from chrome._compat import Chrome
+from utils.phone_verification import PhoneVerification
+from utils.email_verification import get_email, get_code
 
 import requests, json, time, os, random
 
